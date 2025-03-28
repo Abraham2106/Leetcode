@@ -4,7 +4,7 @@ class Solution(object):
         temp = []
         for num in nums:
 
-            if num%6 == 0: # Even numbers and divisible by 3 , if a number is a number is divisible by 6, it's even and divisible by 3 
+            if num%6 == 0: # Even numbers and divisible by 3 , if a number is divisible by 6, it's even and divisible by 3 
                 temp.append(num)
 
         avg = sum(temp)
