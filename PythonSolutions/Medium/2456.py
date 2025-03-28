@@ -28,3 +28,4 @@ class Solution(object):
                 result.append([creator, maxId])
 
         return result
+    
