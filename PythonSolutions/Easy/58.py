@@ -8,6 +8,6 @@ class Solution(object):
                 if length > 0: #Ignores leading whitespaces
                     break
             else:
-                length += 1
+                length += 1 
                 
         return length
