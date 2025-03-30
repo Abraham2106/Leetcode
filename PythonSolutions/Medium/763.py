@@ -9,7 +9,7 @@ class Solution(object):
 
         max_size = 0
         result = []
-        idx = 0 
+        idx = 0  
     
         # Go through the string and find the biggest possible partitions
         while idx < len(s):
