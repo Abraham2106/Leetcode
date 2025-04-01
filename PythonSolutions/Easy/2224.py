@@ -7,7 +7,6 @@ class Solution(object):
         total_ans = total_correct - total_current
 
         ans = 0
-        ans = 0
 
         for value in [60, 15, 5, 1]:
 
