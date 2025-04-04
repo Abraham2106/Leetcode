@@ -1,6 +1,6 @@
 import os
 
-folder = "C:\\Users\\solan\\OneDrive\\Documents\\Leetcode\\Leetcode\\PythonSolutions\\Medium"  # change this to your actual folder name
+folder = "C:\\Users\\solan\\OneDrive\\Documents\\Leetcode\\Leetcode\\JavaSolutions\\Easy"  # change this to your actual folder name
 for filename in os.listdir(folder):
     if filename.endswith(".py"):
         number = filename.split(".")[0]
