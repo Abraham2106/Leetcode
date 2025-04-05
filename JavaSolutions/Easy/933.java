@@ -1,3 +1,4 @@
+package Easy;
 import java.util.LinkedList;
 import java.util.Queue;
 // Use of an interface such as Queue<T> for the requests.
