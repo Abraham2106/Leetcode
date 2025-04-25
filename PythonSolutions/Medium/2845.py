@@ -1,4 +1,4 @@
-"""Doesn't works TLE and not optimal"""
+"""Doesn't work TLE and not optimal"""
 class Solution:
     def countInterestingSubarrays(self, nums: List[int], modulo: int, k: int) -> int:
         
